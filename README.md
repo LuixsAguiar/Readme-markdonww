@@ -18,18 +18,18 @@
 ## Enviando seu site para o GitHub
 No terminal ou prompt de comando:
 
-# 1. Entrar na pasta do repositório
+1. Entrar na pasta do repositório
 git init
 
-# 2. Copiar seus arquivos HTML, CSS, JS para esta pasta
+2. Copiar seus arquivos HTML, CSS, JS para esta pasta
 
-# 3. Adicionar os arquivos para o Git
+3. Adicionar os arquivos para o Git
 git add .
 
-# 4. Fazer o commit
+4. Fazer o commit
 git commit -m "Adiciona arquivos do site"
 
-# 5. Enviar para o GitHub
+5. Enviar para o GitHub
 git push origin main
 
 ---
